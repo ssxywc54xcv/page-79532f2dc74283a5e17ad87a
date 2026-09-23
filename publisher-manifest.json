@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f6c0a91629489fc62eaee69b",
+  "owner": "ssxywc54xcv",
+  "repo": "page-79532f2dc74283a5e17ad87a",
+  "title": "柠檬(ssLemon)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "79532f2dc74283a5e17ad87a",
+      "a": "柠檬(ssLemon)",
+      "b": "机场官网线路发布页",
+      "entity": "柠檬(ssLemon)",
+      "brand": "柠檬(ssLemon)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b144f1e2cd7b69801e6e58744909b3434862c47eccb061c17e019fd99d46baf6",
+      "content": {
+        "primary_entity": "柠檬(ssLemon)",
+        "keyword1": "柠檬(ssLemon)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 每月流量，支持 3 至 20 台设备同时在线。旗舰版搭载 IPLC 专线并针对游戏加速优化，团队版提供 VIP 高带宽节点与企业定制路由。选择时可按设备数量、流量需求与订阅周期匹配，年付方案更省费用。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备流量需求",
+          "AI_HERO_INTRO": "柠檬(ssLemon)面向需要稳定海外网络连接的用户，提供按月与按年订阅的加速服务。基础版每月 100GB 流量适合轻度使用，旗舰版 300GB 与 IPLC 专线满足游戏与流媒体需求，团队版 1000GB 与 20 台设备支持小团队协作。",
+          "AI_VISUAL_TITLE": "柠檬(ssLemon)套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐按需匹配",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "根据设备数量与流量消耗挑选合适的订阅方案。",
+          "AI_FEATURE_TITLE_1": "套餐匹配",
+          "AI_FEATURE_TEXT_1": "轻度选基础版 100GB，重度选旗舰版 300GB，团队选团队版 1000GB。",
+          "AI_FEATURE_TITLE_2": "设备需求",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，按终端数量选择。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备有对应的客户端，请依据系统类型选择并参照其文档配置订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数对比选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端订阅导入，按设备类型与流量需求逐步操作。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，从三档套餐中选定合适的订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本满足所选套餐的运行条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成节点连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "柠檬(ssLemon)套餐的流量用完了怎么办？",
+          "AI_FAQ_ANSWER_1": "当月流量耗尽后，可等待下月重置，或提前升级至更高档套餐获得更多流量。旗舰版与团队版提供更大流量池，适合持续高消耗场景。",
+          "AI_FAQ_QUESTION_2": "基础版能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。超出数量时，建议按实际终端数升级套餐。",
+          "AI_FAQ_QUESTION_3": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150，相当于两个月免费；旗舰版年付 ¥350，团队版年付 ¥850。长期使用选择年付更划算。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线针对游戏加速优化，延迟表现更稳定，也适合高清流媒体播放。对网络质量要求较高的用户可优先考虑旗舰版。",
+          "AI_FAQ_QUESTION_5": "团队版支持定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并配备专属客户经理服务，适合有多设备协作与特定网络路径需求的小型团队。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_CLOSING_TEXT": "根据设备与流量需求锁定套餐，再按客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ejiej.com",
+    "host": "ejiej.com"
+  },
+  "file_hashes": {
+    "index.html": "4f4febc1860e78d3e8e3c8add64f7859650efcf05c64666e85908b0ca0edbe3e",
+    "sitemap.xml": "2392d69c1d4d934d0f8275c561dc7bf32670147f1e2321a1ee9fc8d6208a8eb8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f7f1df96cf414a456a1e1f7133cc5e77bb9aff74736131cd86cea3cea1a6453d",
+    "robots.txt": "ae807b5812d08eb431eb5b17ab1afd1b5053b31f920bc8101f184912a1185941",
+    "a4ae9f1f19cca7fa52a174eb32f22c56.txt": "598172cb2f1aa53b6941e79a138ebcaf52cd1c8c143e8280a634bc70560d3e1f"
+  },
+  "revision": "927d9104b5d0022e15ad6f80fc4d90cc57f002fcf840c685946b638de67dc877"
+}
